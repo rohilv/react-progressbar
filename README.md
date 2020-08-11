@@ -1,1 +1,1 @@
-# react-progressbbar
+# React ProgressBar
